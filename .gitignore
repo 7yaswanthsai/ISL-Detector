@@ -1,0 +1,25 @@
+# Ignore dataset directories
+/Testing_images/
+/Eval/
+/ISL_raw/
+/data/
+/datasets/
+/images/
+
+# Ignore common image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.svg
+
+# Python/cache and OS noise (helpful defaults)
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
