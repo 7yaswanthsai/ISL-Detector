@@ -39,10 +39,4 @@ It recognizes hand signs (A–Z and 0–9) and predicts them using a deep learni
 - Fine-tuned for ISL hand sign classification.  
 - Achieved robust results on unseen data.  
 
----
-
-## 👥 Contributors
-
-- **Vamsi**  
-- **Siva**
-- **Yaswanth Sai**
+--
